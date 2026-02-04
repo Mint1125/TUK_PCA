@@ -1,5 +1,9 @@
 # TUK_PCA
 
-TUK PCA: A Multi-Stage SMT Line Dataset for PCA Manufacturing 
-
 Dataset Description
+
+- concat/: Concatenated dataset
+- test/: Validation baseline scripts for data integrity and reproducibility
+
+This dataset is based on:
+Kim et al., "TUK PCA: A Multi-Stage SMT Line Dataset for Printed Circuit Assembly Manufacturing"
